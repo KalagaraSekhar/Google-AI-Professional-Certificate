@@ -1,4 +1,4 @@
-# 🤖 AI Fundamentals
+# 🤖 AI Fundamentals 
 
 <div align="center">
 
