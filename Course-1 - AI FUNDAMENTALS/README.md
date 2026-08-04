@@ -15,7 +15,7 @@
 <p align="center">
 
 🏠 <a href="../README.md">Main Repository</a> •
-➡ <a href="../02-AI-for-Brainstorming-and-Planning">Next Course</a>
+➡ <a href="../Course-2 -AI for Brainstorming and Planning">Next Course</a>
 
 </p>
 
