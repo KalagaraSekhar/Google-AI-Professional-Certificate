@@ -6,7 +6,7 @@
 ![Coursera](https://img.shields.io/badge/Platform-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 ![Certificate](https://img.shields.io/badge/Program-Google%20AI%20Professional%20Certificate-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-English-success?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Completed-1%2F7-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Completed-4%2F7-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
 
 </div>
@@ -47,9 +47,9 @@ Throughout this professional certificate, I aim to:
 | Course | Duration | Status |
 |----------|:--------:|:------:|
 | ✅ AI Fundamentals | 3 Hours | Completed |
-| ⏳ AI for Brainstorming and Planning | 1 Hour | In Progress |
-| ⬜ AI for Research and Insights | 1 Hour | Pending |
-| ⬜ AI for Writing and Communicating | 1 Hour | Pending |
+| ✅ AI for Brainstorming and Planning | 1 Hour | Completed |
+| ✅ AI for Research and Insights | 1 Hour | Completed |
+| ✅ AI for Writing and Communicating | 1 Hour | Completed |
 | ⬜ AI for Content Creation | 2 Hours | Pending |
 | ⬜ AI for Data Analysis | 1 Hour | Pending |
 | ⬜ AI for App Building | 2 Hours | Pending |
@@ -132,7 +132,7 @@ Google-AI-Professional-Certificate
 
 ```
 Completed Courses
-1 / 7
+4 / 7
 ```
 
 ---
@@ -142,20 +142,20 @@ Completed Courses
 ## ✅ Completed
 
 - AI Fundamentals
+- AI for Brainstorming and Planning
+- AI for Research and Insights
+- AI for Writing and Communication
 
 ---
 
 ## 🚀 Currently Learning
 
-- AI for Brainstorming and Planning
+- AI for Content Creation
 
 ---
 
 ## ⏳ Upcoming Courses
 
-- AI for Research and Insights
-- AI for Writing and Communicating
-- AI for Content Creation
 - AI for Data Analysis
 - AI for App Building
 
@@ -216,8 +216,8 @@ Each course contains:
 | Provider | Google |
 | Platform | Coursera |
 | Program | Google AI Professional Certificate |
-| Courses Completed | 1 / 7 |
-| Current Course | AI for Brainstorming and Planning |
+| Courses Completed | 4 / 7 |
+| Current Course | AI for Content Creation |
 | Status | In Progress |
 
 ---
