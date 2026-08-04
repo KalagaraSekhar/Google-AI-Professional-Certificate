@@ -14,9 +14,9 @@
 
 <p align="center">
 
-⬅ <a href="../01-AI-Fundamentals">Previous Course</a> •
 🏠 <a href="../README.md">Main Repository</a> •
-➡ <a href="../03-Prompt-Design-in-Vertex-AI">Next Course</a>
+⬅ <a href="../Course-1%20-%20AI%20FUNDAMENTALS/">Previous Course</a> •
+➡ <a href="../Course-3%20-%20AI%20for%20Research%20and%20Insights/">Next Course</a>
 
 </p>
 
