@@ -15,8 +15,7 @@
 <p align="center">
 
 🏠 <a href="../README.md">Main Repository</a> •
-⬅ <a href="../03-AI-for-Data-and-Decision-Making">Previous Course</a> •
-➡ <a href="../05-AI-for-Presentations">Next Course</a>
+⬅ <a href="../Course-3%20-%20AI%20for%20Research%20and%20Insights/">Previous Course</a>
 
 </p>
 
