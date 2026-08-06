@@ -6,7 +6,7 @@
 ![Coursera](https://img.shields.io/badge/Platform-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 ![Certificate](https://img.shields.io/badge/Program-Google%20AI%20Professional%20Certificate-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-English-success?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Completed-4%2F7-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Completed-5%2F7-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
 
 </div>
@@ -50,7 +50,7 @@ Throughout this professional certificate, I aim to:
 | ✅ AI for Brainstorming and Planning | 1 Hour | Completed |
 | ✅ AI for Research and Insights | 1 Hour | Completed |
 | ✅ AI for Writing and Communicating | 1 Hour | Completed |
-| ⬜ AI for Content Creation | 2 Hours | Pending |
+| ✅AI for Content Creation | 2 Hours | Completed |
 | ⬜ AI for Data Analysis | 1 Hour | Pending |
 | ⬜ AI for App Building | 2 Hours | Pending |
 
@@ -132,7 +132,7 @@ Google-AI-Professional-Certificate
 
 ```
 Completed Courses
-4 / 7
+5 / 7
 ```
 
 ---
@@ -145,18 +145,18 @@ Completed Courses
 - AI for Brainstorming and Planning
 - AI for Research and Insights
 - AI for Writing and Communication
+- AI for Content Creation
 
 ---
 
 ## 🚀 Currently Learning
 
-- AI for Content Creation
+- AI for Data Analysis
 
 ---
 
 ## ⏳ Upcoming Courses
 
-- AI for Data Analysis
 - AI for App Building
 
 ---
@@ -216,8 +216,8 @@ Each course contains:
 | Provider | Google |
 | Platform | Coursera |
 | Program | Google AI Professional Certificate |
-| Courses Completed | 4 / 7 |
-| Current Course | AI for Content Creation |
+| Courses Completed | 5 / 7 |
+| Current Course | AI for Data Analysis |
 | Status | In Progress |
 
 ---
