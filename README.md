@@ -31,7 +31,7 @@ The goal of this repository is to build a strong AI foundation while creating a 
 
 ### 🏆 Google AI Professional Certificate
 
-<img src="./Certificate/Google_AI_Professional_Certificate.png" width="700">
+<img src="./Certificates/Google_AI_Professional_Certificate.png" width="700">
 
 <br><br>
 
@@ -47,7 +47,7 @@ The goal of this repository is to build a strong AI foundation while creating a 
 
 <br>
 
-<a href="./Certificate/Google_AI_Professional_Certificate.pdf">
+<a href="./Certificates/Google_AI_Professional_Certificate.pdf">
   <img src="https://img.shields.io/badge/📜%20View%20Certificate-PDF-4285F4?style=for-the-badge" alt="View Certificate">
 </a>
 
