@@ -6,8 +6,8 @@
 ![Coursera](https://img.shields.io/badge/Platform-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 ![Certificate](https://img.shields.io/badge/Program-Google%20AI%20Professional%20Certificate-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-English-success?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Completed-5%2F7-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Completed-7%2F7-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -25,6 +25,35 @@ The goal of this repository is to build a strong AI foundation while creating a 
 
 ---
 
+## 🎓 Google AI Professional Certificate
+
+<div align="center">
+
+### 🏆 Google AI Professional Certificate
+
+<img src="./Certificate/Google_AI_Professional_Certificate.png" width="700">
+
+<br><br>
+
+### 🥇 Certificate Badge
+
+<img src="./Badge/Google_AI_Professional_Certificate_Badge.png" width="250">
+
+<br><br>
+
+**Google AI Professional Certificate**  
+**Google • Coursera**  
+**7 / 7 Courses Completed — 100% ✅**
+
+<br>
+
+<a href="./Certificate/Google_AI_Professional_Certificate.pdf">
+  <img src="https://img.shields.io/badge/📜%20View%20Certificate-PDF-4285F4?style=for-the-badge" alt="View Certificate">
+</a>
+
+</div>
+
+---
 # 🎯 Learning Objectives
 
 Throughout this professional certificate, I aim to:
@@ -51,8 +80,8 @@ Throughout this professional certificate, I aim to:
 | ✅ AI for Research and Insights | 1 Hour | Completed |
 | ✅ AI for Writing and Communicating | 1 Hour | Completed |
 | ✅AI for Content Creation | 2 Hours | Completed |
-| ⬜ AI for Data Analysis | 1 Hour | Pending |
-| ⬜ AI for App Building | 2 Hours | Pending |
+| ✅AI for Data Analysis | 1 Hour | Completed |
+| ✅ AI for App Building | 2 Hours | Completed |
 
 ---
 
@@ -132,7 +161,7 @@ Google-AI-Professional-Certificate
 
 ```
 Completed Courses
-5 / 7
+7 / 7
 ```
 
 ---
@@ -146,6 +175,8 @@ Completed Courses
 - AI for Research and Insights
 - AI for Writing and Communication
 - AI for Content Creation
+- AI for Data Analysis
+- AI for App Building
 
 ---
 
@@ -153,13 +184,6 @@ Completed Courses
 
 - AI for Data Analysis
 
----
-
-## ⏳ Upcoming Courses
-
-- AI for App Building
-
----
 
 # 🎯 Repository Goals
 
@@ -216,9 +240,8 @@ Each course contains:
 | Provider | Google |
 | Platform | Coursera |
 | Program | Google AI Professional Certificate |
-| Courses Completed | 5 / 7 |
-| Current Course | AI for Data Analysis |
-| Status | In Progress |
+| Courses Completed | 7 / 7 |
+| Status | Completed |
 
 ---
 
