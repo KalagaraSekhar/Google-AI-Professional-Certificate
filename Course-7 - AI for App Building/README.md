@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Course](https://img.shields.io/badge/Course-06-blue?style=for-the-badge)
+![Course](https://img.shields.io/badge/Course-07-blue?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Duration](https://img.shields.io/badge/Duration-1%20Hour-orange?style=for-the-badge)
+![Duration](https://img.shields.io/badge/Duration-2%20Hours-orange?style=for-the-badge)
 
 </div>
 
@@ -15,7 +15,7 @@
 <p align="center">
 
 🏠 <a href="../README.md">Main Repository</a> •
-⬅ <a href="../Course-5%20-%20AI%20for%20Data%20Analysis/">Previous Course</a>
+⬅ <a href="../Course-6%20-%20AI%20for%20Data%20Analysis/">Previous Course</a>
 
 </p>
 
